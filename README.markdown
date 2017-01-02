@@ -7,6 +7,12 @@ jQuery BBQ enables simple, yet powerful bookmarkable #hash history via a cross-b
 
 Visit the [project page](http://benalman.com/projects/jquery-bbq-plugin/) for more information and usage examples!
 
+## Installation ##
+Install package with NPM and add it to your dependencies:
+
+npm install --save module-bbq
+
+## Documentation ##
 
 ## Documentation ##
 [http://benalman.com/code/projects/jquery-bbq/docs/](http://benalman.com/code/projects/jquery-bbq/docs/)
