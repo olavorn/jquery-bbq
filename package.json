@@ -1,6 +1,6 @@
 {
   "name": "module-bbq",
-  "version": "1.4.6",
+  "version": "1.4.7",
   "description": "UMD Version of Back Button & Query Library with Typescript support",
   "main": "jquery.ba-bbq.js",
   "types": "jquery.ba-bbq.d.ts",
@@ -44,6 +44,5 @@
       "name": "olavoneto",
       "email": "olavo@exodus.eti.br"
     }
-  ],
-  "readme": "ERROR: No README data found!"
+  ]
 }
