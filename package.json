@@ -1,0 +1,49 @@
+{
+  "name": "module-bbq",
+  "version": "1.4.6",
+  "description": "UMD Version of Back Button & Query Library with Typescript support",
+  "main": "jquery.ba-bbq.js",
+  "types": "jquery.ba-bbq.d.ts",
+  "directories": {
+    "doc": "docs",
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qchouleur/jquery-bbq.git"
+  },
+  "files":[
+    "jquery.ba-bbq.d.ts",
+    "jquery.ba-bbq.js"
+  ]
+  ,
+  "keywords": [
+    "jquery2",
+    "bbq",
+    "back",
+    "button",
+    "typescript",
+    "node"
+  ],
+  "author": {
+    "name": "Olavo Rocha Neto (modified from Ben Alman bbq)"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/olavorn/jquery-bbq/issues"
+  },
+  "homepage": "https://github.com/olavorn/jquery-bbq#readme",
+  "dependencies": {
+    "jquery": "^2.2.4"
+  },
+  "maintainers": [
+    {
+      "name": "olavoneto",
+      "email": "olavo@exodus.eti.br"
+    }
+  ],
+  "readme": "ERROR: No README data found!"
+}
